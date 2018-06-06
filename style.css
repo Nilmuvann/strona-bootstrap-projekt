@@ -1,0 +1,31 @@
+body{
+  padding-top: 50px;
+  background: #f8f8f8;
+}
+
+.content{
+  height: 600px;
+  background: #9c8c8c;
+}
+
+.adds{
+  height: 600px;
+}
+
+.add-1{
+  height: 200px;
+  background: #ffef24;
+}
+.add-2{
+  height: 200px;
+  background: #93eee2;
+}
+.add-3{
+  height: 200px;
+  background: #000000;
+}
+
+.image{
+  height: 250px;
+  background-image: url(https://picsum.photos/g/1920/250?random)
+}
